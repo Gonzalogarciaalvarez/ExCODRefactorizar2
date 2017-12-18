@@ -12,8 +12,8 @@ package factorial;
 public class CalcularFactorial {
     int numero;
     int factorial;
-    /**Metodo que calcula los factoriales
-     * 
+    /**
+     * Metodo que calcula los factoriales
      * @param numero 
      * @param factorial 
      */
